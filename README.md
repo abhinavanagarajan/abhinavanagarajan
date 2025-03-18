@@ -2,7 +2,7 @@
 - 👀 I’m interested in computers and people who make them 
 - 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on backend / networks / ai
-- 📫 How to reach me ...
+- 📫 Reach me on abhinavanagarajan@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have no idea what hinge is.
 
