@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhinavanagarajan
-- 👀 I’m interested in programming 
+- 👀 I’m interested in computers and people who make them 
 - 🌱 I’m currently learning golang
 - 💞️ I’m looking to collaborate on backend / networks / ai
 - 📫 How to reach me ...
