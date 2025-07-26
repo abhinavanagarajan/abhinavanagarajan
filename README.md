@@ -9,7 +9,7 @@
 ## Some more places we could connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/abhinavanagarjan">
+  <a href="https://linkedin.com/in/abhinavanagarajan">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25"/>
   </a>
   &nbsp;&nbsp;
