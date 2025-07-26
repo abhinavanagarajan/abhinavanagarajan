@@ -6,10 +6,18 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have been programming for almost half of my life now.
 
+## Some more places we could connect
 
--Some more places we could connect
-LinkedIn: linkedin.com/in/abhinavanagarjan
-LeetCode: leetcode.com/u/abhinavanagarajan
+<p align="left">
+  <a href="https://linkedin.com/in/abhinavanagarjan">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="25"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/abhinavanagarajan">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="25"/>
+  </a>
+</p>
+
 
 Repositories : 16 ``(Private repos included)``
 
