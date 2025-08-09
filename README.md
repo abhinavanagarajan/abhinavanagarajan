@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on backend / networks / ai
 - 📫 Reach me on abhinavanagarajan@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I have been programming for almost half of my life now.
+- ⚡ Fun fact: I have been programming for more than half of my life (since 9yo).
 
 ## Some more places we could connect
 
