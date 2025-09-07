@@ -15,9 +15,7 @@ Goal: To collaborate with teams that build impactful, innovative products, where
 ---
 
 🌐 **Connect with Me**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/abhinavanagarajan)  
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/abhinavanagarajan)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge)](mailto:abhinavanagarajan@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/abhinavanagarajan)  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white&style=for-the-badge)](https://leetcode.com/u/abhinavanagarajan)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge)](mailto:abhinavanagarajan@gmail.com)
 
 ---
 
