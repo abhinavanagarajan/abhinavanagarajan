@@ -8,7 +8,7 @@ It all started when I was 10 — fascinated by how technology shapes the world, 
 
 Since then, I’ve grown from tinkering with HTML and Python scripts to building end-to-end solutions that power real users. From creating automated IoT systems that monitor environmental data to developing scalable web apps for managing tasks, every project has taught me the same thing: technology is at its best when it solves meaningful problems.
 
-Today, I thrives at the intersection of software, data, and hardware — always curious, always learning. I tend to solving real problems with the right tools, whether that’s designing efficient backends, crafting intuitive frontends, or automating complex workflows.
+Today, I thrives at the intersection of software, data, and hardware — always learning. I tend to solving real problems with the right tools, whether that’s designing efficient backends, crafting intuitive frontends, or automating complex workflows.
 
 Goal: To collaborate with teams that build impactful, innovative products, where I can contribute, grow, and leave a lasting mark.
 
